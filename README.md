@@ -1,4 +1,4 @@
-### * 본 레포지토리는 [sjjeong](https://github.com/sjjeong)님의 [android 기술 스팩 아카이브](https://github.com/sjjeong/android-tech-spec-in-korea-company), [ios 기술 스팩 아카이브](https://github.com/sjjeong/ios-tech-spec-in-korea-company) 레포지토리를 참고하여 만들어졌습니다.
+###### * 본 레포지토리는 [sjjeong](https://github.com/sjjeong)님의 [android 기술 스팩 아카이브](https://github.com/sjjeong/android-tech-spec-in-korea-company), [ios 기술 스팩 아카이브](https://github.com/sjjeong/ios-tech-spec-in-korea-company) 레포지토리를 참고하여 만들어졌습니다.
 
 # 회사의 안드로이드 기술 스펙을 알려주세요!!
 한국에서 플러터 앱을 개발하는 회사의 기술 스펙을 아카이브 합니다.
