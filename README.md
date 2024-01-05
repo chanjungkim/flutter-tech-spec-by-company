@@ -11,8 +11,8 @@
 |:-:|:-:|:-:|:-:|
 |[모노랩스](https://monolabs.io)|Clean, MVVM| Android, iOS ||
 
-## 라이브러리
-라이브러리는 A-Z 순서대로 해주세요.
+## 패키지
+* 없는 패키지는 A-Z 순서대로 추가부탁드립니다.
 
 ### [auto_route](https://pub.dev/packages/auto_route)
 - 모노랩스
